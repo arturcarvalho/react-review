@@ -8,7 +8,7 @@ module.exports = {
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   organizationName: 'arturcarvalho', // Usually your GitHub org/user name.
-  projectName: 'react-review', // Usually your repo name.
+  projectName: 'arturcarvalho.github.io', // Usually your repo name.
   themeConfig: {
     navbar: {
       title: 'React Review',
@@ -21,11 +21,11 @@ module.exports = {
           type: 'doc',
           docId: 'intro',
           position: 'left',
-          label: 'Tutorial',
+          label: 'Docs',
         },
         {to: '/blog', label: 'Blog', position: 'left'},
         {
-          href: 'https://github.com/arturcarvalho/react-review',
+          href: 'https://github.com/arturcarvalho/arturcarvalho.github.io',
           label: 'GitHub',
           position: 'right',
         },
