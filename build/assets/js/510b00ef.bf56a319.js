@@ -1,1 +1,0 @@
-(self.webpackChunkreact_review=self.webpackChunkreact_review||[]).push([[722],{743:function(e){"use strict";e.exports=JSON.parse('{"allTagsPath":"/build/blog/tags","slug":"facebook","name":"facebook","count":1,"permalink":"/build/blog/tags/facebook"}')}}]);

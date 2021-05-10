@@ -1,1 +1,0 @@
-(self.webpackChunkreact_review=self.webpackChunkreact_review||[]).push([[953],{7645:function(u){"use strict";u.exports=JSON.parse('{"allTagsPath":"/build/blog/tags","slug":"docusaurus","name":"docusaurus","count":3,"permalink":"/build/blog/tags/docusaurus"}')}}]);
