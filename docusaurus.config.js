@@ -3,7 +3,7 @@ module.exports = {
   title: 'React Review',
   tagline: 'Review React technologies',
   url: 'https://arturcarvalho.github.io',
-  baseUrl: '/build',
+  baseUrl: '/build/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
