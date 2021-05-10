@@ -1,0 +1,1 @@
+(self.webpackChunkreact_review=self.webpackChunkreact_review||[]).push([[799],{6353:function(e){"use strict";e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Welcome","permalink":"/build/blog/welcome"},{"title":"Hello","permalink":"/build/blog/hello-world"},{"title":"Hola","permalink":"/build/blog/hola"}]}')}}]);
